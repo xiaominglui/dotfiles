@@ -1,2 +1,2 @@
-curl -#L https://github.com/xiaominglui/dotfiles/tarball/master | tar -xvzC ~ --strip-components 1 && . ~/.profile
+curl -#L https://github.com/xiaominglui/dotfiles/tarball/master | tar -xvzC ~ --strip-components 1 && vim ~/.profile
 
