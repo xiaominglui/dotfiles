@@ -1,3 +1,7 @@
 [user]
 	email = xiaominglui@gmail.com
 	name = xiaominglui
+[color]
+	diff = auto
+	status = auto
+	branch = auto
