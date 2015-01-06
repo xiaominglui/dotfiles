@@ -1,4 +1,4 @@
 #!/bin/sh
 
 # import dotbashrc
-. ~/.bashrc
+. ~/.zshrc
